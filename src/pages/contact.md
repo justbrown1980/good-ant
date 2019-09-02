@@ -7,5 +7,4 @@ menus:
     weight: 6
 template: contact
 ---
-
-To get in touch fill the form below.
+To get in touch fill the form below.  This is some edited text
